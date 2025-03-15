@@ -1,0 +1,14 @@
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+
+# Environment Variables and Configuration Files
+.env
+.env.local
+
+# Cache and Temporary Files
+*.cache
+*.tmp
