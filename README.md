@@ -1,2 +1,2 @@
 # link-tree
-A personal website with my relavent links inspired by https://linktr.ee/
+A personal website with my relevent links inspired by https://linktr.ee/
